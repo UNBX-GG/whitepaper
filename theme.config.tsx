@@ -14,6 +14,11 @@ const config: DocsThemeConfig = {
       <Logo />
     </div>
   ),
+  useNextSeoProps() {
+    return {
+      titleTemplate: '%s – UNBX'
+    }
+  },
   docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
   footer: {
     component: null,
