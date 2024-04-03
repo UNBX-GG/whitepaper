@@ -24,7 +24,10 @@ const config: DocsThemeConfig = {
   feedback: {
     content: null,
   },
-  darkMode: true,
+  /*darkMode: true, */
+  nextThemes: {
+    defaultTheme: 'dark'
+  },
   themeSwitch: {
     component: null,
   },
