@@ -41,7 +41,9 @@ const config: DocsThemeConfig = {
       
       <meta property="og:description" content="The Ultimate NFT Experience" />
     </>
-  )
+  ),
+  gitTimestamp: false,
+  toc: false //dok ga ne sredimo bolje da ga nema
 }
 
 export default config
