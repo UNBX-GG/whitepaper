@@ -1,3 +1,6 @@
+<link rel="stylesheet" href="pages.css">
+
+
 # **UNBX Platform: A Comprehensive Overview**
 
 Our platform is designed to deliver a unique and thrilling experience through a blend of gaming, trading, and strategic financial opportunities. Dive into the heart of our ecosystem and discover what makes UNBX the ultimate destination for blockchain gaming enthusiasts.
@@ -12,10 +15,16 @@ Embark on a solo journey or join forces in our multiplayer arena. Whether you're
 - **Single Player Mode:** Unbox NFTs and earn In-Game Currency (IGC) equal to the value of your finds.
 - **Multiplayer Challenges:** Engage in Singles, Duos, or Three-for-All battles where the victors claim the IGC pooled from all participants.
 
+
+
 ### **💰 UNBX Bank**
 Your financial hub within UNBX. Monitor your $UNBX and IGC balances, engage in both hard and soft staking to unlock perks, and claim your bonuses and seasonal rewards.
 
-### **(IGC TOKEN LOGO) In-Game Currency (IGC)**
+<div style="display: flex; align-items: center; margin-top: 25px">
+  
+  <img src="https://i.ibb.co/Qr1JjWF/igc.jpg" alt="NFT Image" width="20" height="20" style="margin-right: 10px; border-radius: 50%;"> 
+  <h3 style="margin: 0;"><b>In-Game Currency (IGC)</b></h3>
+</div>
 IGC powers your journey on UNBX, allowing you to acquire Boxes and trade NFTs in the marketplace. Earn IGC through strategic staking of $UNBX or by unboxing valuable rewards.
 
 ### **(UNBOX TOKEN LOGO) $UNBX Token**

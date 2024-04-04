@@ -29,13 +29,19 @@ const config: DocsThemeConfig = {
   feedback: {
     content: null,
   },
-  /*darkMode: true, */
+  
   nextThemes: {
     defaultTheme: 'dark'
   },
   themeSwitch: {
     component: null,
   },
+  head: (
+    <>
+      
+      <meta property="og:description" content="The Ultimate NFT Experience" />
+    </>
+  )
 }
 
 export default config
