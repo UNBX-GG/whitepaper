@@ -40,6 +40,7 @@ const config: DocsThemeConfig = {
     <>
       
       <meta property="og:description" content="The Ultimate NFT Experience" />
+      <link rel="icon" type="image/png" href="/https://fastloyal-dev-image-storage.s3.eu-west-1.amazonaws.com//Group+1321315353+(2).png"></link>
     </>
   ),
   gitTimestamp: false,
