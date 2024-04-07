@@ -16,7 +16,7 @@ Engaging with UNBX offers you several paths to obtain the essential IGC:
 ### **💱 Buy-in with Crypto**
  **ETH, USDT, USDC,** or **$UNBX** can be seamlessly converted into IGC, setting the stage for your unboxing adventures. Step into the arena fully equipped and ready to explore.
 
-<div style="display: flex; align-items: center; margin-top: 25px">
+<div style="display: flex; align-items: center; margin-top: 25px; margin-bottom: 20px">
   
   <img src="https://i.ibb.co/6gsBtzK/UNBX.png" alt="NFT Image" width="20" height="20" style="margin-right: 10px; border-radius: 50%;"> 
   <h3 style="margin: 0;"><b>Stake $UNBX for Yield</b></h3>

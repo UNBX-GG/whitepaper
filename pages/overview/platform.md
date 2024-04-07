@@ -27,7 +27,7 @@ Your financial hub within UNBX. Monitor your $UNBX and IGC balances, engage in b
 </div>
 IGC powers your journey on UNBX, allowing you to acquire Boxes and trade NFTs in the marketplace. Earn IGC through strategic staking of $UNBX or by unboxing valuable rewards.
 
-<div style="display: flex; align-items: center; margin-top: 25px">
+<div style="display: flex; align-items: center; margin-top: 25px; margin-bottom: 20px">
   
   <img src="https://i.ibb.co/6gsBtzK/UNBX.png" alt="NFT Image" width="20" height="20" style="margin-right: 10px; border-radius: 50%;"> 
   <h3 style="margin: 0;"><b>$UNBX Token</b></h3>
