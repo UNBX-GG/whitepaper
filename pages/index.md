@@ -1,10 +1,12 @@
 # **Welcome to UNBX - Ultimate NFT Boxes**
 
-**UNBX is more than just a game.** It is a fully functioning ecosystem characterized by an innovative marketplace and a robust, self-sustaining economy. Our platform is designed not just for entertainment but as a realm where competitive spirit thrives—thanks to leaderboard challenges and lucrative staking rewards from our foundational $UNBX token.
-
+**UNBX is more than just a game.** It’s a fully functioning ecosystem supported by our innovative marketplace and a self-sustaining economy, including leaderboard competition rewards, as well as staking rewards from our primary $UNBX token.
 ## **Core Gameplay**
 
-Dive into the core of UNBX gameplay, where you stand a chance to uncover legendary NFT collections. The stakes are high, and the rewards are real: Earn In-Game Currency (IGC) that mirrors the real-time market floor prices of these illustrious collections. Choose your adventure: revel in the thrill of discovery in **Single Player mode**, or elevate the competition by engaging with fellow Unboxoors in head-to-head challenges across **Singles**, **Duos**, or **Three-for-All** competitions.
+At UNBX you can win big from our Ultimate NFT Boxes featuring valuable rewards. Unbox for your own enjoyment in the **Single Player mode**, or connect with fellow Unboxoors and compete in **Singles**, **Duos**, or **Three-for-All**.
+
+Our core gameplay allows you to Unbox selected Boxes containing legendary NFTs collections. The rewards in the form of **In-Game Currency** (referred to as “IGC”) are dynamically updated to reflect the collections’ floor prices.
+
 
 ## **Note**
-This whitepaper outlines our vision to merge the booming interest in NFT collectibles with the thrill of loot box gaming. Our goal? To establish UNBX as the definitive Unboxing arena, appealing to both the seasoned gamers and the growing Web3 community.
+This whitepaper outlines our vision to merge the booming interest in NFT collectibles with the thrill of loot box gaming. UNBX aims to be the pinnacle hub of Unboxing games for both traditional gamers and Web3 enthusiasts alike.

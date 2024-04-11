@@ -1,38 +1,40 @@
 <link rel="stylesheet" href="pages.css">
 
 
-# **UNBX Platform: A Comprehensive Overview**
+# **UNBX Platform: An Overview**
 
-Our platform is designed to deliver a unique and thrilling experience through a blend of gaming, trading, and strategic financial opportunities. Dive into the heart of our ecosystem and discover what makes UNBX the ultimate destination for blockchain gaming enthusiasts.
+Our platform is designed to deliver a unique and thrilling experience. Learn more about our ecosystem and discover what makes UNBX the ultimate destination for blockchain gaming enthusiasts.
 
-## **Core Elements of the UNBX Experience**
+## **The UNBX platform consists of:**
 
 ### **🎁 The Unboxing Store**
-At the heart of UNBX lies the Unboxing Store, a treasure trove where adventure begins. Here, users explore and acquire **Boxes**, each packed with a curated collection of NFTs. Our Boxes come in an array of themes and are tiered by rarity and value.
+The core of our platform is the store, where you can explore and acquire **Boxes**, each packed with a curated collection of NFTs. Our Boxes come in an array of themes and are tiered by rarity and value.
 
-### **🕹️ Engaging Gameplay**
-Embark on a solo journey or join forces in our multiplayer arena. Whether you're a lone wolf or a team player, UNBX offers modes for all:
-- **Single Player Mode:** Unbox NFTs and earn In-Game Currency (IGC) equal to the value of your finds.
-- **Multiplayer Challenges:** Engage in Singles, Duos, or Three-for-All battles where the victors claim the IGC pooled from all participants.
+### **🕹️ Gameplay**
+Unboxing is available as a single player mode, where you will earn IGC in the value of the Unboxed NFT. In multiplayer mode, in the form of **Singles**, **Duos**, or **Three-for-All**, the winning side claims IGC pooled from all participants.
 
 
 
 ### **💰 UNBX Bank**
-Your financial hub within UNBX. Monitor your $UNBX and IGC balances, engage in both hard and soft staking to unlock perks, and claim your bonuses and seasonal rewards.
+Our financial hub within UNBX where users can view their $UNBX & IGC balance. From the UNBX Bank, you can hard stake & soft stake the token, gaining various perks for either. After accumulating the bonus, the tokens are claimable through the UNBX Bank. If you rank on the seasonal leaderboard, you can also claim rewards through the UNBX Bank.
 
 <div style="display: flex; align-items: center; margin-top: 25px">
   
   <img src="https://i.ibb.co/Qr1JjWF/igc.jpg" alt="NFT Image" width="20" height="20" style="margin-right: 10px; border-radius: 50%;"> 
   <h3 style="margin: 0;"><b>In-Game Currency (IGC)</b></h3>
 </div>
-IGC powers your journey on UNBX, allowing you to acquire Boxes and trade NFTs in the marketplace. Earn IGC through strategic staking of $UNBX or by unboxing valuable rewards.
+The in-game currency of the platform is used to purchase Boxes and NFTs in the marketplace. You can earn IGC through staking $UNBX as well.
 
 <div style="display: flex; align-items: center; margin-top: 25px; margin-bottom: 20px">
   
   <img src="https://i.ibb.co/6gsBtzK/UNBX.png" alt="NFT Image" width="20" height="20" style="margin-right: 10px; border-radius: 50%;"> 
   <h3 style="margin: 0;"><b>$UNBX Token</b></h3>
 </div>
-Our on-chain heartbeat, the $UNBX token, is your key to unlocking the full potential of UNBX. Stake your tokens to gain IGC, spend them on exclusive items, or use them to harness power-ups that elevate your gameplay.
+The on-chain token can be soft & hard staked. Special items such as power-ups will be purchasable with the $UNBX token.
 
 ### **🛒 Marketplace**
-A vibrant bazaar where users can trade, and bolster their collections. Sell your prized NFTs for IGC or scout the marketplace for your next great acquisition. The UNBX Marketplace is your playground for trade and transaction.
+You are able to list NFTs onto the marketplace to earn IGC, as well as purchase listed NFTs with their earned IGC.
+
+## The Goal
+
+The goal of UNBX is to bring the thrilling experience of Unboxing to Web3 in an easy to understand and fun way. With different Box themes, rarity tiers, and game integration, UNBX aims to be the premier Unboxing destination in blockchain gaming.

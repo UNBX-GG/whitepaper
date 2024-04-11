@@ -2,7 +2,7 @@
 
 **$UNBX** is the primary on-chain token, while the In-Game Currency (**IGC**) is used to play the game itself and is not tradable outside of the UNBX game and marketplace.
 
-![Tokenomics scheme](https://fastloyal-dev-image-storage.s3.eu-west-1.amazonaws.com//Group+1321315409+(1).png)
+![Tokenomics scheme](https://i.ibb.co/gvkWKxZ/tokenomics.png)
 
 There will be a capped supply of 150,000,000 $UNBX tokens, meaning that once this amount of tokens is minted there will be no possibility of further issuing.
 
@@ -35,17 +35,22 @@ Depending on the category, $UNBX tokens are subject to cliff and vesting periods
 | Company/Treasury| 30%             | None            |  12 months      |   
 | Operations      | 30%             | None            |  12 months      |
 
+Thus, this is how the $UNBX token will be released:
+
+![Token Supply Chart](https://i.ibb.co/c2dQr4C/token-Supply-Chart.png)
 ## Staking
 
 ### By staking the $UNBX token, users will receive rewards in multiple ways:
 
 #### Soft Staking
 Soft staking $UNBX involves holding the token in the UNBX Bank without locking it up. The soft staked $UNBX will be instantly redeemable. Soft Staking the $UNBX token will generate a yield of IGC, with a 20% annual rate. The account balance of the user will go up every day based on the following calculation:
-  &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Daily Yield = Soft Staked Amount * 20% ÷ 365
+
+  ###### &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Daily Yield = Soft Staked Amount * 20% ÷ 365
 
 #### Hard Staking
 
 Hard staking $UNBX will lock the tokens up for a period of 3 months. During the lockup period, the user will not be able to withdraw the hard staked $UNBX tokens. Hard staking the $UNBX token includes the benefit of soft staking, and it will also bring the following benefit to the user:
+
 
 - Based on the amount of the $UNBX hard staked, the user receives a bonus multiple of 1.1, 1.2, or 1.3, meaning that if the user ranks within the top of the staking amount criteria, while depositing crypto to acquire IGC, for every $1 deposited they receive an amount equal to $1.3 in IGC.
 - Staking $UNBX also increases the XP that the user earns for each Unbox, allowing them to level up and gain perks quicker
@@ -56,3 +61,4 @@ Hard staking $UNBX will lock the tokens up for a period of 3 months. During the 
 Besides staking, the $UNBX token can also be used to purchase in-game power-ups. Some power-ups are seasonal, while others are permanently in the game, such as:
 - Double Chance: Before Unboxing, the user can select 1 item that the Box contains and double the chance that the selected item will be Unboxed.
 - Box Swap: The user can apply this power-up only before Unboxing. After Unboxing and seeing the reward, the user is able to Unbox the same Box one more time for free by forfeiting their initial reward. If the user elects not to Swap, the power-up is used nonetheless and not returned to their account.
+
